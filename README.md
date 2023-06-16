@@ -1,4 +1,4 @@
-# Mental Health Website
+# Mental Health Websit
 ## Currently in progress
 ![Screenshot (927)](https://github.com/hanishtharwani123/Serene-Mental/assets/104623869/7643fac3-24d7-45a0-9600-1c0f8175c316)
 ![Screenshot (928)](https://github.com/hanishtharwani123/Serene-Mental/assets/104623869/e6094692-10f6-4149-8ed6-5f70345bead1)
